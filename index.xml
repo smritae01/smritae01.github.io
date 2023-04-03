@@ -6,11 +6,40 @@
     <description>Recent content on Smriti Suresh</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://smritae01.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://smritae01.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smritae01.github.io/about/</guid>
+      <description>Currently studying MS in CS at Boston University
+About this Website This website is made using Hugo, an open-source static site generator; the theme is charlola.mode by Charlotte Martin.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://smritae01.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smritae01.github.io/contact/</guid>
+      <description>Email: smritis [at] bu [dot] edu
+LinkedIn | Github | Curriculum Vitae</description>
+    </item>
+    
+    <item>
       <title>Math Braintrainer</title>
       <link>https://smritae01.github.io/projects/math-brain-trainer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://smritae01.github.io/projects/math-brain-trainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://smritae01.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/</guid>
       <description></description>
     </item>
     
