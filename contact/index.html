@@ -7,10 +7,13 @@
 <meta name="robots" content="index, follow">
 <title>Contact | Smriti Suresh</title>
 <meta name="keywords" content="" />
-<meta name="description" content="LinkedIn If you have a short message or question, drop a message via LinkedIn.">
+<meta name="description" content="Email: smritis [at] bu [dot] edu
+LinkedIn | Github | Curriculum Vitae">
 <meta name="author" content="Smriti Suresh">
 <link rel="canonical" href="https://smritae01.github.io/contact/" />
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.ccba5276b9ac04860ce2583846be1b4e457318846299fea0ad62b5166834e5a2.css" integrity="sha256-zLpSdrmsBIYM4lg4Rr4bTkVzGIRimf6grWK1Fmg05aI=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://smritae01.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://smritae01.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://smritae01.github.io/favicon-32x32.png">
@@ -18,7 +21,6 @@
 <link rel="mask-icon" href="https://smritae01.github.io/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://smritae01.github.io/contact/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -58,7 +60,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -119,17 +121,33 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://smritae01.github.io">Home</a></div>
-  <h1>Contact</h1>
-</header>
-<div class="post-content">
-<h4 id="linkedin">LinkedIn</h4>
-<p>If you have a short message or question, drop a message via <a href="https://www.linkedin.com/in/heycharlola/">LinkedIn</a>.</p>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="https://smritae01.github.io">Home</a></div>
+    <h1 class="post-title">
+      Contact
+    </h1>
+    <div class="post-meta">Smriti Suresh</div>
+  </header> 
+  <div class="post-content">
+  <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<p>Email: <!-- raw HTML omitted -->smritis [at] bu [dot] edu<!-- raw HTML omitted --></p>
+<p><a href="https://www.linkedin.com/in/smriti-suresh-86b602178/">LinkedIn</a> | <a href="https://github.com/smritae01/">Github</a> | <a href="https://drive.google.com/file/d/19IHJ7pHya1Tjur2RP_yxaC1IloDKLMmR/view?usp=share_link">Curriculum Vitae</a></p>
+
+  </div>
+
+  <footer class="post-footer">
+
+<div class="share-buttons">
+
 
 </div>
+
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
@@ -196,6 +214,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 
