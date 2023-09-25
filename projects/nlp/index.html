@@ -17,20 +17,20 @@
     
 
     
-    <title>Emoji Support</title>
-    <meta name="description" content="Guide to emoji usage in Hugo and DoIt.">
-    <meta name="keywords" content='portfolio, Smriti, Suresh, Smriti Suresh, Natural Language Processing, Machine Learning, Data Science, emoji'>
+    <title>The COVID-19 Humor Project</title>
+    <meta name="description" content="Paper titled : &#34;I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants&#34;">
+    <meta name="keywords" content='portfolio, Smriti, Suresh, Smriti Suresh, Natural Language Processing, Machine Learning, Data Science, humor, nlp, text processing, data extraction, LLMs'>
 
     <meta property="og:url" content="https://smritae01.github.io/projects/nlp/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Emoji Support">
-    <meta property="og:description" content="Guide to emoji usage in Hugo and DoIt.">
+    <meta property="og:title" content="The COVID-19 Humor Project">
+    <meta property="og:description" content="Paper titled : &#34;I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants&#34;">
     <meta property="og:image" content="https://smritae01.github.io/img/smox-2.jpg">
     <meta property="og:image:secure_url" content="https://smritae01.github.io/img/smox-2.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Emoji Support">
-    <meta name="twitter:description" content="Guide to emoji usage in Hugo and DoIt.">
+    <meta name="twitter:title" content="The COVID-19 Humor Project">
+    <meta name="twitter:description" content="Paper titled : &#34;I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants&#34;">
     <meta property="twitter:domain" content="https://smritae01.github.io/projects/nlp/">
     <meta property="twitter:url" content="https://smritae01.github.io/projects/nlp/">
     <meta name="twitter:image" content="https://smritae01.github.io/img/smox-2.jpg">
@@ -159,23 +159,64 @@
 <main id="content">
     <div class="post container">
     <div class="post-header-section">
-        <h1>Emoji Support</h1>
-        <small role="doc-subtitle">Guide to emoji usage in Hugo and DoIt.</small>
+        <h1>The COVID-19 Humor Project</h1>
+        <small role="doc-subtitle">Paper titled : &#34;I’m out of breath from laughing! I think? A dataset of COVID-19 Humor and its toxic variants&#34;</small>
         <p class="post-date">
-            October 1, 2020
+            April 30, 2023
         </p>
 
         <ul class="post-tags">
         
-            <li class="post-tag"><a href="https://smritae01.github.io/tags/emoji">emoji</a></li>
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/humor">humor</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/nlp">nlp</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/text-processing">text processing</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/data-extraction">data extraction</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/llms">LLMs</a></li>
         
         </ul>
     </div>
 
     <div class="post-content">
         <p>
-            <h1 id="adneawlfn-butt">adneawlfn butt</h1>
-<h1 id="adneaw">adneaw</h1>
+            <h2 id="motivation">Motivation</h2>
+<p>It all started as a part of my third year undergrad project, we were trying to analyze the interesting discourse online about the COVID-19 pandemic of 2020. Since it was the early days of this torturous pandemic, I was quite fascinated as to how people from various sections of the society coped with the day-to-day stress COVID-19 imposed over us in the form of humorous text. From this stemmed the topic of topical humor as a thesis project. Along with my classmate, Neha and my Professor of Natural Language Processing at the time Dr.Sunny Rai, we began defining motivations and asked ourselves :</p>
+<p>Is there a topical humor dataset with labels that could help us understand behavior of people in a pandemic situation, how are people getting affected with this kind of humor?
+Are jokes made during a crisis insensitive to certain people and if so how?</p>
+<p>Since there weren&rsquo;t many relevant research papers found on this specific domain of COVID-19 Humor, we decided to focus on different aspects of the project. This was a long-term project spanning around 3 years, so needless to say, we had had our share of diversions and interesting conclusion that propelled the work in different directions.</p>
+<h2 id="the-project">The Project</h2>
+<p>Having the motivation in mind, we began extracting COVID-19 Humor data from various social media sites, namely Reddit, Twitter, Onion headlines and real news headlines. We also extracted memes in the form of images for future work on COVID-19 Humor in the form of memes.</p>
+<p>Pre-processing, Cleaning and Normalizing the data culminated into one dataset containing about 2510 hand-annotated samples with labels such as humor style, type, theme, target and stereotypes formed or exploited while creating the humor in addition to 909 memes.</p>
+<p>Having a well-annotated dataset meant we could employ machine learning models for the tasks we were most curious about. We evaluated the tasks of humor detection and maladaptive humor detection on the state of the art models of GPT-3, RoBERTa and fine-tuned RoBERTa.</p>
+<p>We find that these SOTA models are yet to be perfected in the above mentioned tasks and often fail to detect humor or misidentify the maladaptive intent of the offensive joke. This leads to a potentially unexplored domain of maladaptive humor detection through zero-shot learning.</p>
+<h2 id="acm-webconf-presentation">ACM WebConf Presentation</h2>
+<p>As a result of the work we put into this project, we were rewarded with being accepted and published into the ACM Web Conference 2023 (WWW’23 Companion - SocialNLP Workshop), April 30 – May 04, 2023 in Austin, TX, USA. The SocialNLP workshop was The 11th International Workshop on Natural Language Processing for Social Media. The main objectives of the conference were :</p>
+<ol>
+<li>Addressing issues in social computing using NLP techniques</li>
+<li>Solving NLP problems using information from social networks or social media</li>
+<li>Handling new problems related to both social computing and natural language processing</li>
+</ol>
+<p>Our paper was selected under the theme of Disaster Management Using Social Media, specifically COVID-19 on Social Media. We were selected for presentation at the conference which we gave virtually and I am pleased to say that our work was met with much acceptance and encouragement from the panel members and the scientific community. Here is a picture of us presenting live!
+<img src="/img/paper-conf.jpg" alt="ACM-WebConf"></p>
+<h2 id="the-impact">The Impact</h2>
+<p>We believe that the dataset we produced could have a significant positive impact in the research of the following topics:</p>
+<ul>
+<li>Microaggression Detection</li>
+<li>Creating a safe and inclusive digital atmosphere.</li>
+<li>Resource to understand non-traditional, topical humor</li>
+<li>Stereotype/Norms detection and identifying unfair/harmful stereotypes.</li>
+<li>Information sharing for public welfare.</li>
+</ul>
+<h2 id="links">Links</h2>
+<p>Here are some useful links if you are interested in checking out this project!</p>
+<ul>
+<li><a href="https://dl.acm.org/doi/10.1145/3543873.3587591">Research Paper</a></li>
+<li><a href="https://github.com/smritae01/Covid19_Humor">Github Repo</a></li>
+<li><a href="https://sites.google.com/view/socialnlp2023/home">SocialNLP workshop 2023</a></li>
+</ul>
 
         </p>
         
@@ -190,8 +231,15 @@
     <nav id="toc">
         <nav id="TableOfContents">
   <ul>
-    <li><a href="#adneawlfn-butt">adneawlfn butt</a></li>
-    <li><a href="#adneaw">adneaw</a></li>
+    <li>
+      <ul>
+        <li><a href="#motivation">Motivation</a></li>
+        <li><a href="#the-project">The Project</a></li>
+        <li><a href="#acm-webconf-presentation">ACM WebConf Presentation</a></li>
+        <li><a href="#the-impact">The Impact</a></li>
+        <li><a href="#links">Links</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
     </nav>

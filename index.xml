@@ -6,14 +6,53 @@
     <description>Recent content on Smriti Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2020 17:55:28 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emoji Support</title>
+      <title>Voting Patterns in Boston</title>
+      <link>https://smritae01.github.io/projects/ds4g/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/ds4g/</guid>
+      <description>Motivation This project undertaken by the initiative of City Councillor Julia Mejia was concerned with voting patterns in the Latine/Latinx community amongst different communities of eligible voters, registered voters, voter turnout, precinct breakdown, demographic information (age and gender breakdown) and many such factors.
+Our goals were: finding voting patterns within precincts and looking at gender breakdowns based on party affiliation, Show changes in eligibility, registration, and voting over time among likely LatinX voters and display voting pattern information into an interactive platform (firebase app).</description>
+    </item>
+    
+    <item>
+      <title>The Originality Score Project</title>
+      <link>https://smritae01.github.io/projects/og/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/og/</guid>
+      <description>Motivation The advent of Large Language Models and Neural Networks to generate human-like texts and responses has made a lasting impact on how AI will play a considerable role in automating several corporate and academic environments. Our project intends to evaluate the measure of how original a given text is and possibly classify it as AI or Human-written.
+Currently, ChatGPT [OpenAI, 2022] has the best performance among the tools in the market in terms of generating coherent and persuasive answers.</description>
+    </item>
+    
+    <item>
+      <title>The COVID-19 Humor Project</title>
       <link>https://smritae01.github.io/projects/nlp/</link>
-      <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
+      <pubDate>Sun, 30 Apr 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/nlp/</guid>
-      <description>adneawlfn butt adneaw </description>
+      <description>Motivation It all started as a part of my third year undergrad project, we were trying to analyze the interesting discourse online about the COVID-19 pandemic of 2020. Since it was the early days of this torturous pandemic, I was quite fascinated as to how people from various sections of the society coped with the day-to-day stress COVID-19 imposed over us in the form of humorous text. From this stemmed the topic of topical humor as a thesis project.</description>
+    </item>
+    
+    <item>
+      <title>The MEB Project</title>
+      <link>https://smritae01.github.io/projects/meb/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/meb/</guid>
+      <description>Motivation This project seeks to understand the relationship between mental, emotional, and behavioral (MEB) health and the stable experience of belonging. For this context, belonging is defined as a generative group of individuals working collaboratively in a system. In this case, the students and staff at St. Helens high school make up the groups and collectively make up the system. Our working theory is that if we increase belonging in both areas (groups and the system) it will lead to an improvement in MEB health.</description>
+    </item>
+    
+    <item>
+      <title>The Lego Voice Assistant</title>
+      <link>https://smritae01.github.io/projects/lego/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/lego/</guid>
+      <description>Problem Statement Conversational App Integration with the Core Product Using Technology This was the topic statement we had to come up with a fully functioning website for that satisified the core objectives of the 2 day long hackathon.
+Our train of thought! Approach Our aim was to code a voice assistant that accepts a voice input, and outputs the required result after searching the vast Dell Digital database. To facilitate speech recognition and synthesis, we used the HTML5 Speech Recognition API.</description>
     </item>
     
     <item>

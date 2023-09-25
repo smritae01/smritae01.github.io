@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belonging on Smriti Suresh</title>
+    <link>https://smritae01.github.io/tags/belonging/</link>
+    <description>Recent content in Belonging on Smriti Suresh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Mar 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/belonging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The MEB Project</title>
+      <link>https://smritae01.github.io/projects/meb/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/meb/</guid>
+      <description>Motivation This project seeks to understand the relationship between mental, emotional, and behavioral (MEB) health and the stable experience of belonging. For this context, belonging is defined as a generative group of individuals working collaboratively in a system. In this case, the students and staff at St. Helens high school make up the groups and collectively make up the system. Our working theory is that if we increase belonging in both areas (groups and the system) it will lead to an improvement in MEB health.</description>
+    </item>
+    
+  </channel>
+</rss>

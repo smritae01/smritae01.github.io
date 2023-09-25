@@ -2,20 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smritae01.github.io/tags/emoji/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+    <loc>https://smritae01.github.io/tags/data-analytics/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
   </url><url>
-    <loc>https://smritae01.github.io/projects/nlp/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+    <loc>https://smritae01.github.io/tags/data-science/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/demographics/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/interactive/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/latinx/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
   </url><url>
     <loc>https://smritae01.github.io/projects/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/python/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
   </url><url>
     <loc>https://smritae01.github.io/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
   </url><url>
     <loc>https://smritae01.github.io/tags/</loc>
-    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/text-processing/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/visualizations/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/voter-data/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/ds4g/</loc>
+    <lastmod>2023-06-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/ai/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/ai-detection/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/chatgpt/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/detectgpt/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/llms/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/openai/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/originality/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/plagiarism-detection/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/og/</loc>
+    <lastmod>2023-05-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/data-extraction/</loc>
+    <lastmod>2023-04-30T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/humor/</loc>
+    <lastmod>2023-04-30T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/nlp/</loc>
+    <lastmod>2023-04-30T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/nlp/</loc>
+    <lastmod>2023-04-30T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/belonging/</loc>
+    <lastmod>2023-03-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/connected/</loc>
+    <lastmod>2023-03-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/mental-health/</loc>
+    <lastmod>2023-03-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/meb/</loc>
+    <lastmod>2023-03-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/youth/</loc>
+    <lastmod>2023-03-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/api/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/dell/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/hackathon/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/html5/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/software-development/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/speech-to-text/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/lego/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/voice-detection/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/webdev/</loc>
+    <lastmod>2021-09-01T12:01:24+08:00</lastmod>
   </url><url>
     <loc>https://smritae01.github.io/about/</loc>
   </url><url>

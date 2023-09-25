@@ -6,13 +6,292 @@
     <description>Recent content in Tags on Smriti Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2020 17:55:28 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>emoji</title>
-      <link>https://smritae01.github.io/tags/emoji/</link>
-      <pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate>
+      <title>Data Analytics</title>
+      <link>https://smritae01.github.io/tags/data-analytics/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
       
-      <guid>https://smritae01.github.io/tags/emoji/</guid>
+      <guid>https://smritae01.github.io/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://smritae01.github.io/tags/data-science/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographics</title>
+      <link>https://smritae01.github.io/tags/demographics/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/demographics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive</title>
+      <link>https://smritae01.github.io/tags/interactive/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LatinX</title>
+      <link>https://smritae01.github.io/tags/latinx/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/latinx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://smritae01.github.io/tags/python/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text processing</title>
+      <link>https://smritae01.github.io/tags/text-processing/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/text-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizations</title>
+      <link>https://smritae01.github.io/tags/visualizations/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/visualizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voter data</title>
+      <link>https://smritae01.github.io/tags/voter-data/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/voter-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://smritae01.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI detection</title>
+      <link>https://smritae01.github.io/tags/ai-detection/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/ai-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://smritae01.github.io/tags/chatgpt/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DetectGPT</title>
+      <link>https://smritae01.github.io/tags/detectgpt/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/detectgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMs</title>
+      <link>https://smritae01.github.io/tags/llms/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>https://smritae01.github.io/tags/openai/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Originality</title>
+      <link>https://smritae01.github.io/tags/originality/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/originality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plagiarism detection</title>
+      <link>https://smritae01.github.io/tags/plagiarism-detection/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/plagiarism-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data extraction</title>
+      <link>https://smritae01.github.io/tags/data-extraction/</link>
+      <pubDate>Sun, 30 Apr 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/data-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humor</title>
+      <link>https://smritae01.github.io/tags/humor/</link>
+      <pubDate>Sun, 30 Apr 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://smritae01.github.io/tags/nlp/</link>
+      <pubDate>Sun, 30 Apr 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belonging</title>
+      <link>https://smritae01.github.io/tags/belonging/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/belonging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConnectED</title>
+      <link>https://smritae01.github.io/tags/connected/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/connected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>https://smritae01.github.io/tags/mental-health/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth</title>
+      <link>https://smritae01.github.io/tags/youth/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://smritae01.github.io/tags/api/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dell</title>
+      <link>https://smritae01.github.io/tags/dell/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/dell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>https://smritae01.github.io/tags/hackathon/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML5</title>
+      <link>https://smritae01.github.io/tags/html5/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>https://smritae01.github.io/tags/software-development/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech-to-text</title>
+      <link>https://smritae01.github.io/tags/speech-to-text/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/speech-to-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice detection</title>
+      <link>https://smritae01.github.io/tags/voice-detection/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/voice-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebDev</title>
+      <link>https://smritae01.github.io/tags/webdev/</link>
+      <pubDate>Wed, 01 Sep 2021 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/tags/webdev/</guid>
       <description></description>
     </item>
     

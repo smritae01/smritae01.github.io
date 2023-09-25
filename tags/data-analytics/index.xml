@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Smriti Suresh</title>
+    <link>https://smritae01.github.io/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Smriti Suresh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voting Patterns in Boston</title>
+      <link>https://smritae01.github.io/projects/ds4g/</link>
+      <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/ds4g/</guid>
+      <description>Motivation This project undertaken by the initiative of City Councillor Julia Mejia was concerned with voting patterns in the Latine/Latinx community amongst different communities of eligible voters, registered voters, voter turnout, precinct breakdown, demographic information (age and gender breakdown) and many such factors.
+Our goals were: finding voting patterns within precincts and looking at gender breakdowns based on party affiliation, Show changes in eligibility, registration, and voting over time among likely LatinX voters and display voting pattern information into an interactive platform (firebase app).</description>
+    </item>
+    
+    <item>
+      <title>The MEB Project</title>
+      <link>https://smritae01.github.io/projects/meb/</link>
+      <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/meb/</guid>
+      <description>Motivation This project seeks to understand the relationship between mental, emotional, and behavioral (MEB) health and the stable experience of belonging. For this context, belonging is defined as a generative group of individuals working collaboratively in a system. In this case, the students and staff at St. Helens high school make up the groups and collectively make up the system. Our working theory is that if we increase belonging in both areas (groups and the system) it will lead to an improvement in MEB health.</description>
+    </item>
+    
+  </channel>
+</rss>

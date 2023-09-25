@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT on Smriti Suresh</title>
+    <link>https://smritae01.github.io/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on Smriti Suresh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Originality Score Project</title>
+      <link>https://smritae01.github.io/projects/og/</link>
+      <pubDate>Mon, 01 May 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/og/</guid>
+      <description>Motivation The advent of Large Language Models and Neural Networks to generate human-like texts and responses has made a lasting impact on how AI will play a considerable role in automating several corporate and academic environments. Our project intends to evaluate the measure of how original a given text is and possibly classify it as AI or Human-written.
+Currently, ChatGPT [OpenAI, 2022] has the best performance among the tools in the market in terms of generating coherent and persuasive answers.</description>
+    </item>
+    
+  </channel>
+</rss>
