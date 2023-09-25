@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smritae01.github.io/tags/emoji/</loc>
+    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/nlp/</loc>
+    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/projects/</loc>
+    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/</loc>
+    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+  </url><url>
+    <loc>https://smritae01.github.io/tags/</loc>
+    <lastmod>2020-10-01T17:55:28+08:00</lastmod>
+  </url><url>
     <loc>https://smritae01.github.io/about/</loc>
   </url><url>
     <loc>https://smritae01.github.io/categories/</loc>
   </url><url>
     <loc>https://smritae01.github.io/contact/</loc>
-  </url><url>
-    <loc>https://smritae01.github.io/projects/</loc>
-  </url><url>
-    <loc>https://smritae01.github.io/</loc>
-  </url><url>
-    <loc>https://smritae01.github.io/tags/</loc>
   </url>
 </urlset>
