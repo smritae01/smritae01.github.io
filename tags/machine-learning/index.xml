@@ -6,7 +6,17 @@
     <description>Recent content in Machine Learning on Smriti Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Political Speech Generation and Analysis</title>
+      <link>https://smritae01.github.io/projects/pol/</link>
+      <pubDate>Sun, 24 Dec 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/pol/</guid>
+      <description>The Project Employing Artificial Intelligence (AI) to be modelled after the political personalities that govern our societies may not be a distant dream after all. The aim of the project was to create a system that generates political speeches, and figured out what the topics of focus were, for each of these generated speeches.
+The idea was to take a text generation model (in our case, we took GPT, BERT, RNNs, etc), train it with political speeches picked from multiple political figures, and finally prompt the model to generate a speech, given the input.</description>
+    </item>
+    
     <item>
       <title>Herbaria OCR</title>
       <link>https://smritae01.github.io/projects/ocr/</link>

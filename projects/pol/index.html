@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: ;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Political Speech Generation and Analysis</title>
+    <meta name="description" content="Project under the Course : CS505 Natural Language Processing">
+    <meta name="keywords" content='portfolio, Smriti, Suresh, Smriti Suresh, Natural Language Processing, Machine Learning, Data Science, text processing, natural language processing, political speech, sentiment analysis, Visualizations, Python, Topic Modeling'>
+
+    <meta property="og:url" content="https://smritae01.github.io/projects/pol/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Political Speech Generation and Analysis">
+    <meta property="og:description" content="Project under the Course : CS505 Natural Language Processing">
+    <meta property="og:image" content="https://smritae01.github.io/img/smox-2.jpg">
+    <meta property="og:image:secure_url" content="https://smritae01.github.io/img/smox-2.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Political Speech Generation and Analysis">
+    <meta name="twitter:description" content="Project under the Course : CS505 Natural Language Processing">
+    <meta property="twitter:domain" content="https://smritae01.github.io/projects/pol/">
+    <meta property="twitter:url" content="https://smritae01.github.io/projects/pol/">
+    <meta name="twitter:image" content="https://smritae01.github.io/img/smox-2.jpg">
+
+    
+    <link rel="canonical" href="https://smritae01.github.io/projects/pol/" />
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
+
+    
+    <script src="/js/bundle.min.edd985581bf860dfb4507e5885197f1680160c7fe19f23b31e183126d99dd596.js" integrity="sha256-7dmFWBv4YN&#43;0UH5YhRl/FoAWDH/hnyOzHhgxJtmd1ZY="></script>
+
+    
+    
+        <!-- KaTeX -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" integrity="sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js" integrity="sha384-X/XCfMm41VSsqRNQgDerQczD69XqmjOOOwYQvr/uuC+j4OPoNhVgjdGFwhvN02Ja" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          // customised options
+          // • auto-render specific keys, e.g.:
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+          ],
+          // • rendering keys, e.g.:
+          throwOnError : false
+        });
+      });
+    </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://smritae01.github.io">
+                <img src="https://smritae01.github.io/img/smox-2.jpg" alt="Smriti Suresh" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://smritae01.github.io">Smriti Suresh</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/"><span data-feather='home'></span> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/about/"><span data-feather='user'></span> About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/projects/"><span data-feather='code'></span> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/contact/"><span data-feather='phone'></span> Contact </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/"><span data-feather='home'></span> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/about/"><span data-feather='user'></span> About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/projects/"><span data-feather='code'></span> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/contact/"><span data-feather='phone'></span> Contact </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Political Speech Generation and Analysis</h1>
+        <small role="doc-subtitle">Project under the Course : CS505 Natural Language Processing</small>
+        <p class="post-date">
+            December 24, 2023
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/data-science">Data Science</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/machine-learning">Machine Learning</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/text-processing">text processing</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/natural-language-processing">natural language processing</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/political-speech">political speech</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/sentiment-analysis">sentiment analysis</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/visualizations">Visualizations</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/python">Python</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/topic-modeling">Topic Modeling</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h2 id="the-project">The Project</h2>
+<p>Employing Artificial Intelligence (AI) to be modelled after the political personalities that govern our societies may not be a distant dream after all. The aim of the project was to create a system that generates political speeches, and  figured out what the topics of focus were, for each of these generated speeches.</p>
+<p>The idea was to take a text generation model (in our case, we took GPT, BERT, RNNs, etc), train it with political speeches picked from multiple political figures, and finally prompt the model to generate a speech, given the input. These leaders have been picked considering their contributions and influence to coursing the political structure of the world.</p>
+<p>The system was trained using a manually created dataset comprising of the most memorable and historic 5-6 speeches spoken by these political figures on a public platform. We have attempted to procure a political text generator with the highest level of consistency in the manner of speaking of these individuals.</p>
+<p>The study encompasses dataset curation, model fine-tuning, analyses employing diverse language models, and a comprehensive evaluation using multiple metrics, such as cosine similarity, BLEU score, and ROUGE score. We now present 9 fine-tuned models (based on GPT-2 and GPT-3.5 mainly) as well as their evaluated outputs for each of the political figures we selected that perform the best, considering the resources that were openly available for our use. Notably, our research outlines potential future avenues, including topic-specific fine-tuning and deeper analyses of speech nuances.</p>
+<h2 id="interesting-finds">Interesting Finds</h2>
+<p>Here is a Word-cloud representation of the most frequently used terms by each of the political figures we considered!</p>
+<p><img src="/img/wc-img.png" alt="wc-img"></p>
+<p>Here are the results of the Latent Semantic Analysis performed for Topic Modeling for each of the political figures!</p>
+<p><img src="/img/lda.png" alt="lda"></p>
+<p>Here are the evaluation results, specifically the Cosine Similarity measure with respect to the Ground truth text. In simple terms, the closer the score is to 1.0, the better the model is at generating speech similar to the political leader!</p>
+<p><img src="/img/cos-sim.png" alt="cos-sim"></p>
+<h2 id="extension-and-future-work">Extension and Future Work</h2>
+<p>Political speech generation is a specific niche that can be explored to its limits. We tried our best to experiment with as many models as we could and in the process, have become well-versed with exactly which models can and cannot be used for text generation, for example, both BERT and ROBERTA do not come in handy for our purpose. We haven’t yet found a model that beats GPT in this case.</p>
+<p>For future work, we can try building a model that can form complete and grammatically correct sentences, which are also factually correct. With the help of LDA, we can also fine-tune models to focus on particular topics only and generate text relevant to that topic. This can further be utilized to ask questions to the model and compare the text generated across various people, and analyze whose answer is most relevant to the topic.</p>
+<p>An interesting evaluation metric that could be analyzed in the future could be reported between the models we employ for speech generation and compare performances between zero-shot learning, few-shot learning and transformer models in terms of tone of the speech, audio analysis and even video clippings. We would ideally present an in-depth analysis of the speeches of each political personality we have considered and identify the nuances which make their speech styles and formats so distinctive from one another.</p>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://drive.google.com/file/d/1YCz4jSIVEm2EvJLgab38PHpijvFeJ5HJ/view?usp=sharing">Project Report</a></li>
+<li><a href="https://github.com/notgitika/political-speech-generation">Github Repo</a></li>
+</ul>
+
+        </p>
+        
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#the-project">The Project</a></li>
+        <li><a href="#interesting-finds">Interesting Finds</a></li>
+        <li><a href="#extension-and-future-work">Extension and Future Work</a></li>
+        <li><a href="#links">Links</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    
+    
+
+    
+    <span> Smriti Suresh</span>
+    
+</footer>
+</body>
+</html>
