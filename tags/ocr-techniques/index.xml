@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCR techniques on Smriti Suresh</title>
+    <link>https://smritae01.github.io/tags/ocr-techniques/</link>
+    <description>Recent content in OCR techniques on Smriti Suresh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/ocr-techniques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herbaria OCR</title>
+      <link>https://smritae01.github.io/projects/ocr/</link>
+      <pubDate>Fri, 01 Dec 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/ocr/</guid>
+      <description>Overview The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.</description>
+    </item>
+    
+  </channel>
+</rss>

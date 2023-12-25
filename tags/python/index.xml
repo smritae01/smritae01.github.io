@@ -6,7 +6,16 @@
     <description>Recent content in Python on Smriti Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 12:01:24 +0800</lastBuildDate><atom:link href="https://smritae01.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herbaria OCR</title>
+      <link>https://smritae01.github.io/projects/ocr/</link>
+      <pubDate>Fri, 01 Dec 2023 12:01:24 +0800</pubDate>
+      
+      <guid>https://smritae01.github.io/projects/ocr/</guid>
+      <description>Overview The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.</description>
+    </item>
+    
     <item>
       <title>Voting Patterns in Boston</title>
       <link>https://smritae01.github.io/projects/ds4g/</link>

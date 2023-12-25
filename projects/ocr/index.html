@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: ;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Herbaria OCR</title>
+    <meta name="description" content="Project under the Harvard University Herbaria, Boston, MA">
+    <meta name="keywords" content='portfolio, Smriti, Suresh, Smriti Suresh, Natural Language Processing, Machine Learning, Data Science, text processing, image processing, OCR techniques, Herbaria, Deployment, Visualizations, Python, Microsoft Azure AI, GPT-4'>
+
+    <meta property="og:url" content="https://smritae01.github.io/projects/ocr/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Herbaria OCR">
+    <meta property="og:description" content="Project under the Harvard University Herbaria, Boston, MA">
+    <meta property="og:image" content="https://smritae01.github.io/img/smox-2.jpg">
+    <meta property="og:image:secure_url" content="https://smritae01.github.io/img/smox-2.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Herbaria OCR">
+    <meta name="twitter:description" content="Project under the Harvard University Herbaria, Boston, MA">
+    <meta property="twitter:domain" content="https://smritae01.github.io/projects/ocr/">
+    <meta property="twitter:url" content="https://smritae01.github.io/projects/ocr/">
+    <meta name="twitter:image" content="https://smritae01.github.io/img/smox-2.jpg">
+
+    
+    <link rel="canonical" href="https://smritae01.github.io/projects/ocr/" />
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
+
+    
+    <script src="/js/bundle.min.edd985581bf860dfb4507e5885197f1680160c7fe19f23b31e183126d99dd596.js" integrity="sha256-7dmFWBv4YN&#43;0UH5YhRl/FoAWDH/hnyOzHhgxJtmd1ZY="></script>
+
+    
+    
+        <!-- KaTeX -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" integrity="sha384-Xi8rHCmBmhbuyyhbI88391ZKP2dmfnOl4rT9ZfRI7mLTdk1wblIUnrIq35nqwEvC" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js" integrity="sha384-X/XCfMm41VSsqRNQgDerQczD69XqmjOOOwYQvr/uuC+j4OPoNhVgjdGFwhvN02Ja" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          // customised options
+          // • auto-render specific keys, e.g.:
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+          ],
+          // • rendering keys, e.g.:
+          throwOnError : false
+        });
+      });
+    </script>
+  
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://smritae01.github.io">
+                <img src="https://smritae01.github.io/img/smox-2.jpg" alt="Smriti Suresh" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://smritae01.github.io">Smriti Suresh</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/"><span data-feather='home'></span> Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/about/"><span data-feather='user'></span> About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/projects/"><span data-feather='code'></span> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://smritae01.github.io/contact/"><span data-feather='phone'></span> Contact </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/"><span data-feather='home'></span> Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/about/"><span data-feather='user'></span> About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/projects/"><span data-feather='code'></span> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://smritae01.github.io/contact/"><span data-feather='phone'></span> Contact </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Herbaria OCR</h1>
+        <small role="doc-subtitle">Project under the Harvard University Herbaria, Boston, MA</small>
+        <p class="post-date">
+            December 1, 2023
+        </p>
+
+        <ul class="post-tags">
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/data-science">Data Science</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/machine-learning">Machine Learning</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/text-processing">text processing</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/image-processing">image processing</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/ocr-techniques">OCR techniques</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/herbaria">Herbaria</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/deployment">Deployment</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/visualizations">Visualizations</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/python">Python</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/microsoft-azure-ai">Microsoft Azure AI</a></li>
+        
+            <li class="post-tag"><a href="https://smritae01.github.io/tags/gpt-4">GPT-4</a></li>
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <h2 id="overview">Overview</h2>
+<p>The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.
+The herbarium specimens are pressed plant samples stored on paper. The specimen labels are handwritten and date back to the early 1900s. The labels contain the curator&rsquo;s name, their institution, the species and genus, and the date the specimen was collected. Since the labels are handwritten, they are not readily accessible from an analytical standpoint. The data, at this time, cannot be analyzed to study the impact of climate on plant life.
+The digitized samples are an invaluable source of information for climate change scientists, and are providing key insights into biodiversity change over the last century. Digitized specimens will facilitate easier dissemination of information and allow more people access to data. The project, if successful, would enable users from various domains in environmental science to further studies pertaining to climate change and its effects on flora and even fauna.</p>
+<h2 id="the-project">The Project</h2>
+<p>The objective of the project was to develop a machine learning solution for automating the extraction and digitization of critical information from handwritten and typed text labels on historical herbarium specimens, dating back to the early 1900s. These labels include: location, date collected, collector name etc. The goal is to be able to automatically upload these labels to a database. We will be contributing our work to the existing Github repo. We extended the project to include support for recognizing Chinese and Cyrilic characters as well.</p>
+<p>We created a pipeline that made use of the Azure AI vision API to extract all the characters from the image, pass it through the GPT-4 API to format the text correctly and appropriately according to the Darwin Core standard for biodiversity specimen information.
+The project concluded with us successfully extracting the Taxon, Collector and Geography labels from the training data to satisfactory accuracy results. The evaluation methods for this project were extremely thorough and we made sure to</p>
+<h2 id="project-deployment">Project Deployment</h2>
+<p>We successfully presented our work at Boston University&rsquo;s Spark! Demo Day of Fall 2023 to the inquisitve panel of members in the form of a poster. Here&rsquo;s a picture of the team!
+<img src="/img/ocr.jpg" alt="ocr"></p>
+<p>The work is also publicly accessible through an application hosted on HuggingFace Spaces through Gradio. It is as simple as uploading your Herbaria specimen image and waiting for the pipeline to extract all the text and display it in an easily accessible and logical JSON format. Check out the Links section for more!</p>
+<h2 id="links">Links</h2>
+<p>Here are some useful links if you are interested in checking out this project!</p>
+<ul>
+<li><a href="https://huggingface.co/spaces/smritae01/HerbariaOCR">Interactive Gradio App</a></li>
+<li><a href="https://github.com/smritae01/ml-herbarium/tree/dev/Fall2023">Github Repo</a></li>
+</ul>
+
+        </p>
+        
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+</div>
+
+<aside class="post-toc">
+    <nav id="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#the-project">The Project</a></li>
+        <li><a href="#project-deployment">Project Deployment</a></li>
+        <li><a href="#links">Links</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+</aside>
+
+
+
+    
+
+        </main><footer class="footer">
+    
+    
+
+    
+    <span> Smriti Suresh</span>
+    
+</footer>
+</body>
+</html>
