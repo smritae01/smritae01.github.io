@@ -13,7 +13,7 @@
       <pubDate>Sun, 30 Apr 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/nlp/</guid>
-      <description>Motivation It all started as a part of my third year undergrad project, we were trying to analyze the interesting discourse online about the COVID-19 pandemic of 2020. Since it was the early days of this torturous pandemic, I was quite fascinated as to how people from various sections of the society coped with the day-to-day stress COVID-19 imposed over us in the form of humorous text. From this stemmed the topic of topical humor as a thesis project.</description>
+      <description>TL;DR My first research publication! Project concerned with COVID-19 pandemic humor dataset creation as well as Humor detection and Maladaptive Humor Detection tasks evaluated on state-of-the-art LLM models to assess the subtle and dark nature of pandemic related humor that may serve toward social and mental analysis of a population living through such an era. Here&amp;rsquo;s a high-level pipeline of the project and its steps, check out the Resources for more!</description>
     </item>
     
     <item>

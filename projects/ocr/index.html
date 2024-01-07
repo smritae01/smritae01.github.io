@@ -194,7 +194,10 @@
 
     <div class="post-content">
         <p>
-            <h2 id="overview">Overview</h2>
+            <h2 id="tldr">TL;DR</h2>
+<p>Project concerned with Herbaria OCR techniques to extract all text from a given image to display the specimen information in the desired DarwinCore format for accomplishing the larger goal of preservation of early 19th century species through digitization. Machine learning pipeline using AI Vision models as well as text processing through GPT-4 along with evaluation of the training data was done successfully, culminating in deployment and a poster presentation to the BU Spark! committee. Here is a high-level visualization of the pipeline:</p>
+<p><img src="/img/ocr.png" alt="ocr1"></p>
+<h2 id="overview">Overview</h2>
 <p>The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.
 The herbarium specimens are pressed plant samples stored on paper. The specimen labels are handwritten and date back to the early 1900s. The labels contain the curator&rsquo;s name, their institution, the species and genus, and the date the specimen was collected. Since the labels are handwritten, they are not readily accessible from an analytical standpoint. The data, at this time, cannot be analyzed to study the impact of climate on plant life.
 The digitized samples are an invaluable source of information for climate change scientists, and are providing key insights into biodiversity change over the last century. Digitized specimens will facilitate easier dissemination of information and allow more people access to data. The project, if successful, would enable users from various domains in environmental science to further studies pertaining to climate change and its effects on flora and even fauna.</p>
@@ -205,7 +208,9 @@ The project concluded with us successfully extracting the Taxon, Collector and G
 <h2 id="project-deployment">Project Deployment</h2>
 <p>We successfully presented our work at Boston University&rsquo;s Spark! Demo Day of Fall 2023 to the inquisitve panel of members in the form of a poster. Here&rsquo;s a picture of the team!
 <img src="/img/ocr.jpg" alt="ocr"></p>
-<p>The work is also publicly accessible through an application hosted on HuggingFace Spaces through Gradio. It is as simple as uploading your Herbaria specimen image and waiting for the pipeline to extract all the text and display it in an easily accessible and logical JSON format. Check out the Links section for more!</p>
+<p>The work is also publicly accessible through an application hosted on HuggingFace Spaces through Gradio. It is as simple as uploading your Herbaria specimen image and waiting for the pipeline to extract all the text and display it in an easily accessible and logical JSON format. Here is a recording of the app in action!</p>
+<p><a href="https://www.youtube.com/watch?v=KrOHZBfq8GU"><img src="https://img.youtube.com/vi/KrOHZBfq8GU/0.jpg" alt="vid"></a></p>
+<p>Note : This app is built upon our Herbaria OCR pipeline that relies on API keys from Microsoft Azure Vision and GPT-4. These access keys were provided by the Boston University Spark! Department and we are very much grateful to them for these resources. Therefore, if the API keys do not seem to work due to access issues or expiration of the account, I have attached the demo app recording above for your perusal.</p>
 <h2 id="links">Links</h2>
 <p>Here are some useful links if you are interested in checking out this project!</p>
 <ul>
@@ -228,6 +233,7 @@ The project concluded with us successfully extracting the Taxon, Collector and G
   <ul>
     <li>
       <ul>
+        <li><a href="#tldr">TL;DR</a></li>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#the-project">The Project</a></li>
         <li><a href="#project-deployment">Project Deployment</a></li>

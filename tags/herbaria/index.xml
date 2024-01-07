@@ -13,7 +13,7 @@
       <pubDate>Fri, 01 Dec 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/ocr/</guid>
-      <description>Overview The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.</description>
+      <description>TL;DR Project concerned with Herbaria OCR techniques to extract all text from a given image to display the specimen information in the desired DarwinCore format for accomplishing the larger goal of preservation of early 19th century species through digitization. Machine learning pipeline using AI Vision models as well as text processing through GPT-4 along with evaluation of the training data was done successfully, culminating in deployment and a poster presentation to the BU Spark!</description>
     </item>
     
   </channel>

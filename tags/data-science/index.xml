@@ -13,8 +13,7 @@
       <pubDate>Sun, 24 Dec 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/pol/</guid>
-      <description>The Project Employing Artificial Intelligence (AI) to be modelled after the political personalities that govern our societies may not be a distant dream after all. The aim of the project was to create a system that generates political speeches, and figured out what the topics of focus were, for each of these generated speeches.
-The idea was to take a text generation model (in our case, we took GPT, BERT, RNNs, etc), train it with political speeches picked from multiple political figures, and finally prompt the model to generate a speech, given the input.</description>
+      <description>TL;DR Project concerned with generating political speech coherent with the styles of renowned world leaders through Deep Learning models and Large Language models and assessing their accuracy in producing new content that keeps in line with the vocabulary, style and tone of the political figure chosen. Data science is used to create visualizations on the generated text comparing it to the original text. Here&amp;rsquo;s a funny meme from the Orange County Register that is in line with what the project tries to assess!</description>
     </item>
     
     <item>
@@ -23,7 +22,7 @@ The idea was to take a text generation model (in our case, we took GPT, BERT, RN
       <pubDate>Fri, 01 Dec 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/ocr/</guid>
-      <description>Overview The changing climate increases stressors that weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, wildfires, and invasive pest outbreaks, leading to the loss of plant species. That has numerous detrimental effects, including lowered productivity, the spread of invasive plants, vulnerability to pests, altered ecosystem structure, etc. The project aims to aid climate scientists in capturing patterns in plant life concerning changing climate.</description>
+      <description>TL;DR Project concerned with Herbaria OCR techniques to extract all text from a given image to display the specimen information in the desired DarwinCore format for accomplishing the larger goal of preservation of early 19th century species through digitization. Machine learning pipeline using AI Vision models as well as text processing through GPT-4 along with evaluation of the training data was done successfully, culminating in deployment and a poster presentation to the BU Spark!</description>
     </item>
     
     <item>
@@ -32,8 +31,8 @@ The idea was to take a text generation model (in our case, we took GPT, BERT, RN
       <pubDate>Thu, 01 Jun 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/ds4g/</guid>
-      <description>Motivation This project undertaken by the initiative of City Councillor Julia Mejia was concerned with voting patterns in the Latine/Latinx community amongst different communities of eligible voters, registered voters, voter turnout, precinct breakdown, demographic information (age and gender breakdown) and many such factors.
-Our goals were: finding voting patterns within precincts and looking at gender breakdowns based on party affiliation, Show changes in eligibility, registration, and voting over time among likely LatinX voters and display voting pattern information into an interactive platform (firebase app).</description>
+      <description>TL;DR Project concerned with using Data Analysis and Data Science to assess Voting Patterns among minority communities within Boston, using data provided by the office of City of Boston Councillor Julia Mejia. Interactive maps and results available here!
+Motivation This project undertaken by the initiative of City Councillor Julia Mejia was concerned with voting patterns in the Latine/Latinx community amongst different communities of eligible voters, registered voters, voter turnout, precinct breakdown, demographic information (age and gender breakdown) and many such factors.</description>
     </item>
     
     <item>
@@ -42,7 +41,8 @@ Our goals were: finding voting patterns within precincts and looking at gender b
       <pubDate>Wed, 01 Mar 2023 12:01:24 +0800</pubDate>
       
       <guid>https://smritae01.github.io/projects/meb/</guid>
-      <description>Motivation This project seeks to understand the relationship between mental, emotional, and behavioral (MEB) health and the stable experience of belonging. For this context, belonging is defined as a generative group of individuals working collaboratively in a system. In this case, the students and staff at St. Helens high school make up the groups and collectively make up the system. Our working theory is that if we increase belonging in both areas (groups and the system) it will lead to an improvement in MEB health.</description>
+      <description>TL;DR Project concerned with the analysis of mental health surveys of young teens as well as their faculty in building connections and social relationships as part of collective belonging through Data processing, analysis and visualizations. The project culminated successfully with a poster presentation to the clients as well as the BU Spark! Committee. Here are a few visualizations we obtained, for more info check out the resources down below:
+Motivation This project seeks to understand the relationship between mental, emotional, and behavioral (MEB) health and the stable experience of belonging.</description>
     </item>
     
   </channel>
